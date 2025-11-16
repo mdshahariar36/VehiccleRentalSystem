@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/FLS/Documents/NetBeansProjects/VehicleRentalSystem3/src/vehiclerentalsystem3/Main.java</file>
+            <file>file:/C:/Users/FLS/Documents/NetBeansProjects/VehicleRentalSystem3/src/VehicleRental/model/Vehicle.java</file>
+            <file>file:/C:/Users/FLS/Documents/NetBeansProjects/VehicleRentalSystem3/src/VehicleRental/model/Car.java</file>
+            <file>file:/C:/Users/FLS/Documents/NetBeansProjects/VehicleRentalSystem3/src/VehicleRental/model/Bike.java</file>
+            <file>file:/C:/Users/FLS/Documents/NetBeansProjects/VehicleRentalSystem3/src/VehicleRental/model/Scooter.java</file>
+            <file>file:/C:/Users/FLS/Documents/NetBeansProjects/VehicleRentalSystem3/src/VehicleRental/model/Customer.java</file>
+            <file>file:/C:/Users/FLS/Documents/NetBeansProjects/VehicleRentalSystem3/src/VehicleRental/model/Booking.java</file>
+            <file>file:/C:/Users/FLS/Documents/NetBeansProjects/VehicleRentalSystem3/src/VehicleRental/model/Payment.java</file>
+            <file>file:/C:/Users/FLS/Documents/NetBeansProjects/VehicleRentalSystem3/src/VehicleRental/model/CashPayment.java</file>
+            <file>file:/C:/Users/FLS/Documents/NetBeansProjects/VehicleRentalSystem3/src/VehicleRental/model/CardPayment.java</file>
+            <file>file:/C:/Users/FLS/Documents/NetBeansProjects/VehicleRentalSystem3/src/VehicleRental/gui/SplashFrame.java</file>
+            <file>file:/C:/Users/FLS/Documents/NetBeansProjects/VehicleRentalSystem3/src/VehicleRental/gui/LogInFrame.java</file>
+            <file>file:/C:/Users/FLS/Documents/NetBeansProjects/VehicleRentalSystem3/src/VehicleRental/gui/HomeFrame.java</file>
+            <file>file:/C:/Users/FLS/Documents/NetBeansProjects/VehicleRentalSystem3/src/VehicleRental/gui/VehicleListFrame.java</file>
+            <file>file:/C:/Users/FLS/Documents/NetBeansProjects/VehicleRentalSystem3/src/VehicleRental/gui/BookingFrame.java</file>
+            <file>file:/C:/Users/FLS/Documents/NetBeansProjects/VehicleRentalSystem3/src/VehicleRental/gui/PaymentFrame.java</file>
+        </group>
+    </open-files>
+</project-private>
